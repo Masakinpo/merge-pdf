@@ -6,8 +6,8 @@ if __name__ == '__main__':
     # args = sys.argv
     # src_dir = args[1]
     # dst_dir = args[2]
-    src_dir = "/Users/Masaki/Dropbox/private/確定申告/2020/領収書"
-    dst_dir = "/Users/Masaki/Dropbox/private/確定申告/2020/pdfs"
+    src_dir = "hogehoge"
+    dst_dir = "hogehoge"
 
     pdfs = []
     for r, _, f in os.walk(src_dir):
